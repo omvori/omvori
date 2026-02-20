@@ -1,18 +1,19 @@
-# Hi there, I'm Andrea Cersosimo 👋
+# Hi there, I'm Andrea Cersosimo 
 
 ### 💻 Junior Programmer | AI Student | Tech Enthusiast
 
 ---
 
-## 🚀 Chi sono
+## Who Am I
 
-Sono un programmatore alle prime armi con una forte passione per la tecnologia e lo sviluppo software. Attualmente sto studiando per conseguire un **Diploma Tecnico Superiore in Artificial Intelligence e Data Analyst**.
+I am a Junior programmer with a strong passion for technology and software development. Im curerntly studying for a **Higher Technical Diploma in Artificial Intelligence & Data Science** 
+I repute myself as a very curios person, that hates "not knowing enough" of what he's talking about. So i always try to keep myself informed on everthing that i do
 
 ---
 
-## 🛠️ Competenze tecniche
+##  Technical competence
 
-**Linguaggi e framework con cui lavoro:**
+**My working programming languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -21,15 +22,3 @@ Sono un programmatore alle prime armi con una forte passione per la tecnologia e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-## 📚 Attualmente
-
-- 🔍 Studio per un **Diploma Tecnico Superiore in Artificial Intelligence e Data Analyst**
-- 🌱 Approfondisco le mie conoscenze in **Python** e **Angular**
-- 👯 Cerco collaborazioni su progetti interessanti
-
----
-
-## 💼 Stack principale
