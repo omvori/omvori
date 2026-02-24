@@ -1,6 +1,6 @@
 # Hi there, I'm Andrea Cersosimo 
 
-### 💻 Junior Programmer | AI Student | Tech Enthusiast
+###  Junior Programmer | AI Student | Tech Enthusiast
 
 ---
 
