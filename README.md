@@ -1,12 +1,12 @@
-# Hi there, I'm Andrea Cersosimo 
+# I'm Andrea
 
-###  Data Analyst and AI Model Developer | AI Student | Tech Enthusiast
+###  Data Analyst and AI Model Developer junior | AI Student | Tech Enthusiast
 
 ---
 
 ## Who Am I
 
-I am an entry programmer with a strong passion for technology and software development. Im curerntly studying for a **Higher Technical Diploma in Artificial Intelligence & Data Science** 
+I am a junior programmer with a strong passion for technology and software development. Im curerntly studying for a **Higher Technical Diploma in Artificial Intelligence & Data Science** 
 I repute myself as a very curios person, that hates "not knowing enough" of what he's talking about. So i always try to keep myself informed on everthing that i do
 
 ---
